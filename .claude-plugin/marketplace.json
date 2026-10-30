@@ -1,0 +1,15 @@
+{
+  "name": "ideal",
+  "owner": { "name": "Ideal", "url": "https://getonideal.com" },
+  "metadata": { "description": "Run your Ideal (getonideal.com) from Claude: one account for your video, music, podcasts, posts and shop, set up and published by your AI through Ideal's MCP server." },
+  "plugins": [
+    {
+      "name": "ideal",
+      "source": "./ideal",
+      "description": "Claude sets up your Ideal, finds your videos and writing, drafts posts and listings for you to approve, and keeps you publishing. Includes the Ideal MCP connection and the Ideal Coach skill.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "homepage": "https://getonideal.com/create/claude"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ideal": {
+      "type": "http",
+      "url": "https://mcp.getonideal.com/mcp"
+    }
+  }
+}

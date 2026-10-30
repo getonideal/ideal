@@ -1,0 +1,13 @@
+{
+  "name": "ideal",
+  "displayName": "Ideal",
+  "version": "1.0.0",
+  "description": "Run your Ideal (getonideal.com) from Claude, and grow it: Claude sets your account up, finds your videos and writing, drafts posts and listings for you to approve, answers your requests, and keeps you publishing.",
+  "author": {
+    "name": "Ideal",
+    "url": "https://getonideal.com"
+  },
+  "homepage": "https://getonideal.com/create/claude",
+  "license": "Proprietary",
+  "privacyPolicyUrl": "https://getonideal.com/privacy"
+}
